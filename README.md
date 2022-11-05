@@ -25,7 +25,7 @@
 
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-   
+(My recent work experience):
 
 **Diretor de Recursos Humanos e Coordenador de Implantação de Processos e Sistemas** \
 [**Prefeitura Municipal de Uberlândia**](https://www.uberlandia.mg.gov.br/) • Full-time \
