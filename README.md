@@ -1,9 +1,9 @@
 <h2>👋 Sou Abel Borges! </h2>
 
 <p>
-  <strong> Aoaixonado por tecnologia, sempre utilizei a programação para melhorar os processos da área de Recursos Humanos (quase 20 anos), tenho me atualizado em busca das tecnologias utilizadas pelo mercado. Minha intenção é migrar para a carreira da Programação Web. 
+  <strong> Aoaixonado por tecnologia, sempre utilizei a programação para melhorar os processos da área de Recursos Humanos (quase 20 anos). Atualmente estou me atualizando nas tecnologias utilizadas pelo mercado, na intenção de migrar integralmente para a carreira da Programação Web. 
   </strong> </br>
-(Passionate about technology, always used programming to improve processes in the Human Resources area (20 years), I have been updating myself in search of the most used technologies in the market. My intention is to migrate to a career in Web Programming.) </p>
+(Passionate about technology, I have always used programming to improve processes in the Human Resources area (almost 20 years). I am currently updating myself in the technologies used by the market, with the intention of fully migrating to the career of Web Programming.) </p>
 </br>
 
 ### Contatos:
