@@ -31,16 +31,31 @@ Meus cursos mais recentes e minha formação acadêmica:\
 (My recent courses and my academic background)
 
 **Programaçao para Web** \
-[**SENAC-MG**](https://www.mg.senac.br/) Concluído em 2022 \
+[**SENAC-MG**](https://www.mg.senac.br/) -- 2022 \
 Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`, `MariaDB`, `Bootstrap`, `PHP`
 
 **Metodologias Ágeis** \
-[**GAMA ACADEMY**](https://app.gama.academy/home/) Concluído em 2022 \
+[**GAMA ACADEMY**](https://app.gama.academy/home/) -- 2022 \
 Linguagens & Tecnologias: `Metodologias Ágeis`, `SCRUM`
 
 **C# Básico ao Avançado** \
-[**DIO**](https://www.dio.me/) Previsão de término - Fev/2023 \
+[**DIO**](https://www.dio.me/) -- 2022 \
 Linguagens & Tecnologias: `.Net Core`, `C#`, `SqlServer`, `ASP.Net`, `API`
+
+**Análise e Desenvolvimento de Sistemas** \
+[**UNIPAC-MG**](https://unipacuberlandia.com.br/) -- Graduação -- 2011 \
+Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`, `.Net`, `SQLServer`
+
+**Sistemas para Internet** \
+[**IFTM - Instituto Federal do Triângulo Mineiro**](https://iftm.edu.br/) -- Graduação --  2014 \
+Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`
+
+**Gerenciamento de Projetos** \
+[**PROMINAS**](https://prominasunica.com.br/) -- Pós Graduação -- 2018 
+
+**Gestão Pública** \
+[**UFU - Universidade Federal de Uberlândia**](https://ufu.br/) -- Pós Graduação -- 2020 
+
 
 <br/>  
    
