@@ -30,6 +30,9 @@ Linguagens & Tecnologias: `.Net`, `SqlServer`, `Vba`
 Meus cursos mais recentes e minha formação acadêmica:\
 (My recent courses and my academic background)
 
+**Gerenciamento de Projetos** \
+[**Universidade Federal de Uberlândia**](https://ufu.br/) -- Mestrado em Inteligência Artificial -- 2023 \
+
 **Programaçao para Web** \
 [**SENAC-MG**](https://www.mg.senac.br/) -- 2022 \
 Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`, `MariaDB`, `Bootstrap`, `PHP`
@@ -42,6 +45,12 @@ Linguagens & Tecnologias: `Metodologias Ágeis`, `SCRUM`
 [**DIO**](https://www.dio.me/) -- 2022 \
 Linguagens & Tecnologias: `.Net Core`, `C#`, `SqlServer`, `ASP.Net`, `API`
 
+**Gestão Pública** \
+[**UFU - Universidade Federal de Uberlândia**](https://ufu.br/) -- Pós Graduação -- 2020 
+
+**Gerenciamento de Projetos** \
+[**PROMINAS**](https://prominasunica.com.br/) -- Pós Graduação -- 2018 
+
 **Análise e Desenvolvimento de Sistemas** \
 [**UNIPAC-MG**](https://unipacuberlandia.com.br/) -- Graduação -- 2011 \
 Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`, `.Net`, `SQLServer`
@@ -50,11 +59,6 @@ Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`, `.Net`, `SQLServer`
 [**IFTM - Instituto Federal do Triângulo Mineiro**](https://iftm.edu.br/) -- Graduação --  2014 \
 Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`
 
-**Gerenciamento de Projetos** \
-[**PROMINAS**](https://prominasunica.com.br/) -- Pós Graduação -- 2018 
-
-**Gestão Pública** \
-[**UFU - Universidade Federal de Uberlândia**](https://ufu.br/) -- Pós Graduação -- 2020 
 
 
 <br/>  
