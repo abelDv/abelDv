@@ -31,7 +31,7 @@ Meus cursos mais recentes e minha formação acadêmica:\
 (My recent courses and my academic background)
 
 **Mestrado em Inteligência Artificial** \
-[**Universidade Federal de Uberlândia**](https://ufu.br/) -- 2023 \
+[**Universidade Federal de Uberlândia**](https://ufu.br/) -- 2023 
 
 **Programaçao para Web** \
 [**SENAC-MG**](https://www.mg.senac.br/) -- 2022 \
