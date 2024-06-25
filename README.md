@@ -30,8 +30,8 @@ Linguagens & Tecnologias: `.Net`, `SqlServer`, `Vba`
 Meus cursos mais recentes e minha formação acadêmica:\
 (My recent courses and my academic background)
 
-**Gerenciamento de Projetos** \
-[**Universidade Federal de Uberlândia**](https://ufu.br/) -- Mestrado em Inteligência Artificial -- 2023 \
+**Mestrado em Inteligência Artificial** \
+[**Universidade Federal de Uberlândia**](https://ufu.br/) -- 2023 \
 
 **Programaçao para Web** \
 [**SENAC-MG**](https://www.mg.senac.br/) -- 2022 \
