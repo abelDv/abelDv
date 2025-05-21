@@ -22,7 +22,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Diretor de Recursos Humanos e Coordenador de Implantação de Processos e Sistemas** \
 [**Prefeitura Municipal de Uberlândia**](https://www.uberlandia.mg.gov.br/) • Full-time \
-Linguagens & Tecnologias: `.Net`, `SqlServer`, `Vba` 
+Linguagens & Tecnologias: `.Net`, `SqlServer`, `Vba`, `Python`
 </br></br></br>
 
 ### Cursos
@@ -73,21 +73,3 @@ Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelDv&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abelDv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
- 
-          
-        
-
-<!--
-**abelDv/abelDv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
